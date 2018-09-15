@@ -3,13 +3,13 @@
 > :books: Some of my favourite books that I would recommend.
 
 - Animal Farm - G. Orwell
-![Alt text](books/AF.jpg?raw=true =100x20)
+![Alt text](books/AF.jpg?raw=true)
 - 1984 - G. Orwell
-![Alt text](books/1984.jpg?raw=true =100x20)
+![Alt text](books/1984.jpg?raw=true)
 - Brave New World - A. L. Huxley
-![Alt text](books/BNW.jpg?raw=true =100x20)
+![Alt text](books/BNW.jpg?raw=true)
 - Attack of the 50 foot Blockchain - D. Gerard
-![Alt text](books/AOT5B.jpg?raw=true)
+![Alt text](books/AOT5B.jpeg?raw=true)
 - Algorithms to Live By - B. Christian
 ![Alt text](books/ATLB.jpg?raw=true)
 - Homo Deus - Y. N. Harrari
@@ -25,7 +25,7 @@
 - Mendeliev's Dream: The Quest For The Elements - P. Strathern
 ![Alt text](books/MD.jpg?raw=true)
 - Dictators Without Borders - A. Cooley & J. Heathershaw
-![Alt text](books/DWB.jpg?raw=true)
+![Alt text](books/DWB.jpeg?raw=true)
 - The Art of Electronics - P. Horowitz & W. Hill
 ![Alt text](books/TAOE.jpg?raw=true)
 - Gödel, Escher, Bach - D. Hofstadter

@@ -3,11 +3,11 @@
 > :books: Some of my favourite books that I would recommend.
 
 - Animal Farm - G. Orwell
-![Alt text](books/AF.jpg?raw=true)
+![Alt text](books/AF.jpg?raw=true =100x20)
 - 1984 - G. Orwell
-![Alt text](books/1984.jpg?raw=true)
+![Alt text](books/1984.jpg?raw=true =100x20)
 - Brave New World - A. L. Huxley
-![Alt text](books/BNW.jpg?raw=true)
+![Alt text](books/BNW.jpg?raw=true =100x20)
 - Attack of the 50 foot Blockchain - D. Gerard
 ![Alt text](books/AOT5B.jpg?raw=true)
 - Algorithms to Live By - B. Christian

@@ -3,7 +3,7 @@
 > :books: Some of my favourite books that I would recommend.
 
 - Animal Farm - G. Orwell
-![Alt text](books/AF.jpg?raw=true)
+<img src="books/AF.jpg" width="200" height="200" />
 - 1984 - G. Orwell
 ![Alt text](books/1984.jpg?raw=true)
 - Brave New World - A. L. Huxley

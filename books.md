@@ -1,4 +1,4 @@
-# Reads
+# Books
 
 > :books: Some of my favourite books that I would recommend.
 

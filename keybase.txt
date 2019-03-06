@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/psiphitheta
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://psiphitheta.github.io
+  * I am psiphitheta (https://keybase.io/psiphitheta) on keybase.
+  * I have a public key ASBYK6lxF5tEm3yFAacPaB-iLVvu2dSKYqr-SX6fgqjlXwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206d0b5f54717f67409130a8b4e6a3b2f7a61768cf694d33e601449aa1e976af120a",
+      "host": "keybase.io",
+      "kid": "0120582ba971179b449b7c8501a70f681fa22d5beed9d48a62aafe497e9f82a8e55f0a",
+      "uid": "0c1f311a97946021b839c594ee4dda19",
+      "username": "psiphitheta"
+    },
+    "merkle_root": {
+      "ctime": 1551846703,
+      "hash": "99fb6f4bf1b7c6aae3531f807879a60d6886a3d067b82baec59d1827ffd79eed12c361d7e4e4a019384bc5580f4f50f33ed76e959218dd791702a78a58c27388",
+      "hash_meta": "bec0844f49d7898a25b5d477885547b749c23479aa7c3f85975fdc2670553c7c",
+      "seqno": 4885470
+    },
+    "service": {
+      "entropy": "J+pEE87AdNR7TEZYcxwj573M",
+      "hostname": "psiphitheta.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.1"
+  },
+  "ctime": 1551846767,
+  "expire_in": 504576000,
+  "prev": "fd664198dedeb5a8818d3c31e44c5b4363524af564d560f669b35d6acae0d8f7",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWCupcRebRJt8hQGnD2gfoi1b7tnUimKq/kl+n4Ko5V8Kp3BheWxvYWTESpcCGcQg/WZBmN7etaiBjTwx5ExbQ2NSSvVk1WD2abNdasrg2PfEIFlbYuhXDB07eJfSm2TjctOe52w/ExDmzJhxA7MzoWjaAgHCo3NpZ8RA38qhUQAiSH7d3vIF1RpJbnuNsrwwwXSbrgE3y8FaGo0aO+eCpg3AVIpvTKkRRZEGN0utBnqoVzABxXaYwVfSCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFzVV0aRrIOXWyJjmZjtbyitJRuEVFUnaS5fBaPHieGmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/psiphitheta
+
+==================================================================
